@@ -14,14 +14,14 @@ The following installation instructions will get you a copy of the project up an
 
 ## Installation & Prerequisites.
   This project using **Python3** and some librarires and tools that you'll need to install to get started.
-       A. NumPy.
-       B. Pandas.
-       C. matplotlib.
-       D. seaborn.
-       E. SciPy.
-       F. Anaconda.
-       H. Juypter Notebook.
-       I. Git for windows users.
+       *. NumPy.
+       *. Pandas.
+       *. matplotlib.
+       *. seaborn.
+       *. SciPy.
+       *. Anaconda.
+       *. Juypter Notebook.
+       *. Git for windows users.
        
 
 
