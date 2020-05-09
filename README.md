@@ -14,14 +14,13 @@ The following installation instructions will get you a copy of the project up an
 
 ## Installation & Prerequisites.
   This project using **Python3** and some librarires and tools that you'll need to install to get started.
-       *NumPy
-       *Pandas
-       *Matplotlib
-       *Seaborn
-       *SciPy
-       *Anaconda
-       *Juypter Notebook
-       *Git for windows users
-       
-
-
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - SciPy
+  - Anaconda
+  - Juypter Notebook
+ 
+## Project Motivation
+The motivation behins this project is picking a dataset from the few public datasets that are provided by Airbnb available on Kaggle, but you may also choose a dataset similar to what was used in the lessons, or an entirely different dataset. Using your dataset, you will choose 3 questions you aspire to answer from the data.
