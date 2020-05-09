@@ -29,5 +29,5 @@ The motivation behinds this project is picking a dataset from the few public dat
 In this project we are using Kaggel to pull out all the needed data in order to do exploratory analysis and apply the CRISP_DM to get insights fron the Data
 
 ## Acknowledgments
-The Data source from [Kaggle](https://www.kaggle.com/airbnb/seattle/data#calendar.csv)- _Kaggle.
+The Data source from <a href="https://www.kaggle.com/airbnb/seattle/data#calendar.csv" target="_blank">Kaggle.</a>
 
