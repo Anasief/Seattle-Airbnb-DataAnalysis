@@ -23,7 +23,10 @@ The following installation instructions will get you a copy of the project up an
   - Juypter Notebook
  
 ## Project Motivation
-The motivation behinds this project is picking a dataset from the few public datasets that are provided by Airbnb available on Kaggle, but you may also choose a dataset similar to what was used in the lessons, or an entirely different dataset. Using your dataset, we will be working on 3 questions and try to find out satisfying answers.
+The motivation behinds this project is picking a dataset from the few public datasets that are provided by Airbnb available on Kaggle, but you may also choose a dataset similar to what was used in the lessons, or an entirely different dataset. Using your dataset, we will be working on 3 questions and try to find out satisfying answers for the following questions:
+  - Which are the most common styles of Airbnb houses / apartments?
+  - What are the zipcodes with high number of listings?
+  - What are the price trends in each month?
 
 ## Data used
 In this project we are using Kaggel to pull out all the needed data in order to do exploratory analysis and apply the CRISP_DM to get insights fron the Data
