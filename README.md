@@ -34,4 +34,4 @@ In this project we are using Kaggel to pull out all the needed data in order to 
 
 ## Acknowledgments
 The Data source from 
-<a href="https://www.kaggle.com/airbnb/seattle/data#calendar.csv" target="_blank">Kaggle-Seattle AirBNB Data</a>
+<a href="https://www.kaggle.com/airbnb/seattle/data#calendar.csv" target="_blank">Kaggle-Seattle AirBNB Data.</a>
